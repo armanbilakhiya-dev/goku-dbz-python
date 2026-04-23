@@ -1,0 +1,12 @@
+## Future Improvements :
+
+- Add sound effects for beam charging and firing
+- Implement full-body pose detection for more accurate gesture recognition
+- Introduce anime-style aura effects around the user
+- Improve beam realism with advanced glow and motion blur
+- Add multiple gestures for different powers (e.g., fireball, shield)
+- Enable video recording and export feature
+- Optimize performance for smoother real-time experience
+- Convert into a web app using Streamlit
+- Build a mobile-friendly version
+- Add voice command activation
